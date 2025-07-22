@@ -4,6 +4,9 @@
 
 Dusk, Tailwind CSS and Inertia.js are assumed
 
+## Deps / init:
+- Vue 3 Popper: ```npm i vue3-popper```  (for SafePopper)
+- ```primary``` color needs to be defined in your CSS config
 ---
 
 ## 📸 Screenshots

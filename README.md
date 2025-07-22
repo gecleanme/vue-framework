@@ -2,7 +2,7 @@
 
 ## Based on Vue 3, composition API
 
-Dusk and Inertia.js are assumed
+Dusk, Tailwind CSS and Inertia.js are assumed
 
 ---
 
